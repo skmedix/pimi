@@ -86,21 +86,21 @@ constants () {
 	etnam_patch_zip_size="4436472"
 	etnam_patch_zip_hsize="4.3Mb"
 
-	cqbtest_full_zip_url="http://stealthzone.net/index.php?option=com_docman&task=doc_download&gid=1285&Itemid=17"
+	cqbtest_full_zip_url="http://wolffiles.de/filebase/ET/Mods/cqb_alpha022_win_linux.zip"
 	cqbtest_full_zip_filename="cqb_alpha022_win_linux.zip"
 	cqbtest_full_zip_sum="361b3e0ef8e35a5cb6550a9a8df06f85604d21f898b7c504d24119880add7b46b436f884f550930491f2a6ed071eae8b88678f61dc06e4fdb4efdd8959799aef"
 	cqbtest_full_zip_header_sum="0b85d176bed98cc0c26931b33bdb4fe4d8ee1cbcf00426988d5b63d0bf09e6a64c62b3a971178736297fe867ab26c9ea65e8d40ad04dbbe6342107b8bdf2acdd"
 	cqbtest_full_zip_size="309240933"
 	cqbtest_full_zip_hsize="295Mb"
 
-	cqbtest_patch_zip_url="http://stealthzone.net/index.php?option=com_docman&task=doc_download&gid=1287&Itemid=17"
+	cqbtest_patch_zip_url="http://tce.merlin1991.at/cqb/cqb_alpha0223_win_linux_patch.zip"
 	cqbtest_patch_zip_filename="cqb_alpha0223_win_linux_patch.zip"
 	cqbtest_patch_zip_sum="5fa0c927c34fbffe19a2f7b05cdd361305c7d8b1b00076281e19087716c26e938d4d1e27bea25ba9d74f075ca6ea1766269a4b71f6f7db4764b43d4619804c91"
 	cqbtest_patch_header_sum="053d486b214c8ad9240f8e91b8f76a5800e87fd7f88f9a5aa188c94c57f2c81875a0efdba4fc9033de2b08bc1c5ac9cef9eff56e8cbe22b9569636a17581e711"
 	cqbtest_patch_zip_size="10680693"
 	cqbtest_patch_zip_hsize="11Mb"
 
-	tcetest_full_run_gz_url="http://stealthzone.net/index.php?option=com_docman&task=doc_download&gid=3&Itemid=17"
+	tcetest_full_run_gz_url="http://zooi.widodh.nl/games/linux/truecombatelite/TrueCombatElite_v049_Linux.run.gz"
 	# other url, same checksum, not gzipped too (wrong ext): http://zooi.widodh.nl/games/linux/truecombatelite/TrueCombatElite_v049_Linux.run.gz
 	tcetest_full_run_gz_filename="TrueCombatElite_v049_Linux.run.gz"
 	tcetest_full_run_gz_sum="e3a0c0d4c65bed324b3f2f89ca77a51a162610a59333e58c621f651e42c97e7a180d04fe7f708530d97379d83d7a67f660c668ea3d93f7536fa390d91e9b49f4"
@@ -117,7 +117,7 @@ constants () {
 	tcetest_full_tar_bz2_sum="ff5cf836b5cedda75434678feac4d35ee8bae3ad6330e07d447f3d5c77e9c6c26ae073cf340fc277645b6ed1fc61326c02ffdbbcd2a30bd630acb7b0b46364e2"
 	tcetest_full_tar_bz2_size="471775660"
 
-	tcetest_patch_zip_url="http://stealthzone.net/index.php?option=com_docman&task=doc_download&gid=2&Itemid=17"
+	tcetest_patch_zip_url="http://tce.merlin1991.at/tce/tce049b_all_os_fixed.zip"
 	tcetest_patch_zip_filename="tce049b_all_os_fixed.zip"
 	tcetest_patch_zip_sum="8814f193437551c29edf88087229ee813317df10e264c3a0200942ef7c1e876aacff4d985d28bd59d1b3bd9589c86ad034d59a8f434cb443a31e07db9b0562da"
 	tcetest_patch_zip_header_sum="578bd4462b36087b32f257d283c1d34e9aedd71d834c6365189604f074fb51c7cee8bcf87b6f8bc929826a72a3ed5395ed99fffad3a78ac738074a9e3d239e4d"
